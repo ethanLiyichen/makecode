@@ -1,0 +1,22 @@
+{
+    "name": "课程5-机器人巡线",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "mbit": "github:lzty634158/yahboom_mbit#5f787118b0edf9ec2716d611a9c8bc7985b8f639"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "pyprj"
+}
